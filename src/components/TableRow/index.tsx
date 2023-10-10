@@ -1,3 +1,4 @@
+import { useNavigate } from "react-router-dom";
 import { api } from "../../services/api";
 import {
   ButtonsDiv,
@@ -15,6 +16,8 @@ interface TableRowProps {
 }
 
 export function TableRow({ name, price, id }: TableRowProps) {
+  const navigate = useNavigate()
+
   async function handleDeleteProduct(id: number) {
     try {
       await api.delete(`/products/${id}`);
@@ -22,6 +25,10 @@ export function TableRow({ name, price, id }: TableRowProps) {
     } catch (error) {
       console.log(error);
     }
+  }
+
+  async function handleGoToEditProductPage(id: number) {
+    navigate(`/product/${id}`)
   }
 
   return (
@@ -34,7 +41,7 @@ export function TableRow({ name, price, id }: TableRowProps) {
       </TableColumnMiddle>
       <TableColumn>
         <ButtonsDiv>
-          <EditButton>EDIT</EditButton>
+          <EditButton onClick={() => handleGoToEditProductPage(id)}>EDIT</EditButton>
           <DeleteButton onClick={() => handleDeleteProduct(id)}>X</DeleteButton>
         </ButtonsDiv>
       </TableColumn>

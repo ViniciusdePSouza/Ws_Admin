@@ -28,18 +28,26 @@ export function SignIn() {
   const navigate = useNavigate();
 
   async function handleLogin({ email, password }: LoginFormData) {
+    const doesUserExist = await localStorage.getItem("@ws-front:user") || "{}"
+    if(doesUserExist) {
+      navigate('/home')
+    }
+
     const { data } = await api.get(
       `/users?email=${email}&password=${password}`
     );
 
-    const doesProducerExists = data;
+    const doesUserExists = data;
+      
+      if(doesUserExists.length  > 0) {
+        const user = doesUserExists[0]
+        localStorage.setItem('@ws-front:user', JSON.stringify(user))
 
-    if(doesProducerExists) {
-       return navigate('/home')
-    } else {
-     alert('Senha ou e-mail inválidos')
-    }
-
+        return navigate('/home')
+      } else {
+        alert('Senha ou e-mail inválidos')
+      }
+      
     return
   }
 
