@@ -1,8 +1,27 @@
 {
-    "users": [
-      { "id": 1, "email": "admin@admin.com", "password": "admin" }
-    ],
-    "products": [
-      { "id": 1, "name": "some comment", "description":"some comment" , "price": 12, "tag": "healthy",  "photo": "https://picsum.photos/100/200"}
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@admin.com",
+      "password": "admin"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Red Apple",
+      "description": "some comment",
+      "price": 1.99,
+      "tag": "healthy",
+      "photo": "https://picsum.photos/100/200"
+    },
+    {
+      "id": 4,
+      "name": "Natural Supplement 1",
+      "description": "some comment",
+      "price": 7.86,
+      "tag": "healthy",
+      "photo": "https://picsum.photos/100/200"
+    }
+  ]
+}
