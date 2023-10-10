@@ -14,7 +14,7 @@ export function Menu() {
   }
 
   function handleLogout() {
-    localStorage.setItem('@itoddy-role:producer', JSON.stringify({}))
+    localStorage.setItem('e', JSON.stringify({}))
     navigate('/')
   }
 
