@@ -1,0 +1,8 @@
+{
+    "users": [
+      { "id": 1, "username": "admin@admin.com", "password": "admin" }
+    ],
+    "products": [
+      { "id": 1, "name": "some comment", "description":"some comment" , "price": 12, "tag": "healthy"}
+    ]
+  }
