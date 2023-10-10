@@ -8,7 +8,11 @@ export const Container = styled.div`
 
   gap: 1rem;
 
-  font-size: 1.6rem;
+  font-size: 2rem;
 
-  padding: 2rem 1.6rem 5rem;
+  padding: 2rem 1.6rem 15rem;
+
+  border-bottom: 1px solid ${({theme}) => theme.COLORS.GRAY_400};
+  border-left: 1px solid ${({theme}) => theme.COLORS.GRAY_400};
+  border-right: 1px solid ${({theme}) => theme.COLORS.GRAY_400};
 `;
