@@ -12,14 +12,20 @@ import {
 } from "./styles";
 import { ProductsProps } from "../../@types/products";
 import { api } from "../../services/api";
+import { useNavigate } from "react-router-dom";
 
 export function Home() {
     const [allProducts, setAllProducts] = useState<ProductsProps[]>([])
+    const navigate = useNavigate()
 
     async function fetchAllProducts() {
         const response = await api.get(`/products`);
 
         return response;
+    }
+
+    function goToNewProduct(){
+      navigate('/newproduct')
     }
 
     useEffect(() => {
@@ -39,7 +45,7 @@ export function Home() {
         <ProductsContainer>
           <HeaderProductsContainer>
             <h1>List of Products</h1>
-            <button>+ New</button>
+            <button onClick={goToNewProduct}>+ New</button>
           </HeaderProductsContainer>
 
           <ProductsTable>

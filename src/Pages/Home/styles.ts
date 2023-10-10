@@ -39,6 +39,7 @@ export const HeaderProductsContainer = styled.div`
     padding: 1rem;
 
     border: 1px solid ${({theme}) => theme.COLORS.GRAY_400};
+    cursor: pointer;
   }
 `;
 

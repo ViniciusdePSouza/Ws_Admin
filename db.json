@@ -12,7 +12,7 @@
       "name": "Red Apple",
       "description": "some comment",
       "price": 1.99,
-      "tag": "healthy",
+      "tag": 1,
       "photo": "https://picsum.photos/100/200"
     },
     {
@@ -20,8 +20,54 @@
       "name": "Natural Supplement 1",
       "description": "some comment",
       "price": 7.86,
-      "tag": "healthy",
+      "tag": 1,
       "photo": "https://picsum.photos/100/200"
+    },
+    {
+      "name": "Camiseta Atronalta Vermelho",
+      "tag": 5,
+      "description": "gyiotgouiyoiyui",
+      "price": 123,
+      "photo": "https://picsum.photos/100/200",
+      "id": 5
+    },
+    {
+      "name": "Vinícius de Paula",
+      "tag": 3,
+      "description": "uytfuyirfiyuf",
+      "price": 80,
+      "photo": "https://picsum.photos/100/200",
+      "id": 6
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "description": "Healthy"
+    },
+    {
+      "id": 2,
+      "description": "Food"
+    },
+    {
+      "id": 3,
+      "description": "Pet"
+    },
+    {
+      "id": 4,
+      "description": "Hardware"
+    },
+    {
+      "id": 5,
+      "description": "Beauty & Hair"
+    },
+    {
+      "id": 6,
+      "description": "Flowers"
+    },
+    {
+      "id": 7,
+      "description": "Garden's"
     }
   ]
 }
