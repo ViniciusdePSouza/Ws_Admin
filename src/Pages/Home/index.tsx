@@ -1,3 +1,12 @@
+import { Header } from "../../components/Header";
+import { Menu } from "../../components/Menu";
+import { Container, Content } from "./styles";
+
 export function Home() {
-    return <h1>Home works!</h1>
+    return <Container>
+        <Header/>
+        <Content>
+            <Menu/>
+        </Content>
+    </Container>
 }
