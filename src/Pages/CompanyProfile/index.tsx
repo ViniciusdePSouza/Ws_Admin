@@ -9,47 +9,46 @@ export function CompanyProfile() {
       <Content>
         <Menu />
         <ProfileInfo>
-          <h1>Somos a Company Profile!!</h1>
+          <h1>We are Company Profile!!</h1>
 
-          <h2>Sobre nós</h2>
+          <h2>About Us</h2>
           <p>
-            Temos profissionais com décadas de experiência no desenvolvimento de
-            sistemas, com formações técnica, superior e certificações. Como
-            empresa existimos desde 2013, realizando projetos de desenvolvimento
-            de sistemas em diversas àreas de aplicação.
+            We have professionals with decades of experience in system
+            development, with technical qualifications, higher education, and
+            certifications. As a company, we have been in existence since 2013,
+            undertaking system development projects in various application
+            areas.
           </p>
 
-          <h2>Aprenda conosco</h2>
+          <h2>Learn with Us</h2>
           <p>
-            Você pode conhecer um pouco mais sobre nossa equipe através de
-            tutoriais disponíveis em nosso canal do Youtube, diversos assuntos
-            são abordados em nosso canal que conta com mais de 1.000 seguidores.
-            Nos comprometemos em auxiliar a comunidade opensource bem como
-            estamos a disposição para demonstrar nosso conhecimento à quem se
-            interesse, seja desenvolvedor ou um possivel cliente. Acesse nosso
-            canal no Youtube e confira.
+            You can learn more about our team through tutorials available on our
+            YouTube channel, where various subjects are covered. Our channel has
+            over 1,000 followers. We are committed to assisting the open-source
+            community and are available to demonstrate our knowledge to anyone
+            interested, whether you are a developer or a potential client. Visit
+            our YouTube channel and check it out.
           </p>
 
-          <h2>Perguntas Frequentes</h2>
-          <h3>• Que tipo de trabalho a WS Work Sistemas faz?</h3>
+          <h2>Frequently Asked Questions</h2>
+          <h3>• What kind of work does WS Work Systems do?</h3>
           <p>
-            A WS Work atua em duas áreas, uma delas é a área de serviços, nossos
-            profissionais têm a experiência necessária para solucionar problemas
-            de tecnologia da sua empresa. A outra área é a de produtos,
-            disponibilizamos alguns produtos de tecnologia para auxiliar a sua
-            empresa no seu trabalho cotidiano, trazendo maior eficiência e
-            velocidade em sua operação.
+            WS Work operates in two areas. One is the services area, where our
+            professionals have the necessary experience to solve your company's
+            technology problems. The other area is products, where we offer
+            various technology products to help your company in its day-to-day
+            operations, bringing greater efficiency and speed to your processes.
           </p>
 
-          <h3>• Como eu posso contratar a WS Work?</h3>
+          <h3>• How can I hire WS Work?</h3>
           <p>
-            A WS Work trabalha com pacote de horas, você pode entrar em contato
-            com nossa equipe comercial através do email adm@wswork.com.br para
-            receber uma proposta de pacote de horas que sejam suficientes para
-            atender o seu negócio. Em caso de contratação de algum produto da WS
-            Work, além de consultar o e-mail acima, você pode encontrar mais
-            informações na página de cada um dos produtos, basta acessar o WS
-            Market o WS Factory ou WS Agro .
+            WS Work operates on a package-of-hours basis. You can get in touch
+            with our sales team via email at adm@wswork.com.br to receive a
+            proposal for a package of hours that will meet your business needs.
+            In case you want to contract one of WS Work's products, in addition
+            to contacting the email mentioned above, you can find more
+            information on the page of each of our products. Just visit WS
+            Market, WS Factory, or WS Agro.
           </p>
         </ProfileInfo>
       </Content>

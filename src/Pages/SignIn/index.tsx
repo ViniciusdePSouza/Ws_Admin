@@ -55,13 +55,13 @@ export function SignIn() {
     <Container>
       <Form onSubmit={handleSubmit(handleLogin)}>
         <h1>Faça Login</h1>
-        <Input placeholder="Insira seu username" {...register("email")} />
+        <Input placeholder="Insert your email" {...register("email")} />
         <FormValidatorAdvisor>
           {errors.email ? errors.email?.message : ""}
         </FormValidatorAdvisor>
 
         <Input
-          placeholder="Insira sua senha"
+          placeholder="Insert your password"
           type="password"
           {...register("password")}
         />
