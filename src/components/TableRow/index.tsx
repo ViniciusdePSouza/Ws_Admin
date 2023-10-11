@@ -22,6 +22,7 @@ export function TableRow({ name, price, id }: TableRowProps) {
     try {
       await api.delete(`/products/${id}`);
       alert("produto deletado, recarregue a página");
+      location.reload();
     } catch (error) {
       console.log(error);
     }

@@ -22,22 +22,6 @@
       "price": 7.86,
       "tag": 1,
       "photo": "https://picsum.photos/100/200"
-    },
-    {
-      "name": "Camiseta Atronalta Vermelho",
-      "tag": 5,
-      "description": "gyiotgouiyoiyui",
-      "price": 123,
-      "photo": "https://picsum.photos/100/200",
-      "id": 5
-    },
-    {
-      "name": "Vinícius de Paula",
-      "tag": 3,
-      "description": "uytfuyirfiyuf",
-      "price": 80,
-      "photo": "https://picsum.photos/100/200",
-      "id": 6
     }
   ],
   "tags": [
