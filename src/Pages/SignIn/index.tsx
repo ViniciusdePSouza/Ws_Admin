@@ -70,7 +70,7 @@ export function SignIn() {
           {errors.password ? errors.password?.message : ""}
         </FormValidatorAdvisor>
 
-        <Button type="submit" title={"Entrar"} isLoading={isSubmitting} />
+        <Button type="submit" title={"SignIn"} isLoading={isSubmitting} />
       </Form>
     </Container>
   );

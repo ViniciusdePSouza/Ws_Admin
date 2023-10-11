@@ -38,7 +38,7 @@ export function TableRow({ name, price, id }: TableRowProps) {
         <span>{name}</span>
       </TableColumn>
       <TableColumnMiddle>
-        <span>${price}</span>
+      <span>{`$${Number(price).toFixed(2)}`}</span>
       </TableColumnMiddle>
       <TableColumn>
         <ButtonsDiv>
