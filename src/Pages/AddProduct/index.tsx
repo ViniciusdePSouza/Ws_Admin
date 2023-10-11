@@ -20,17 +20,17 @@ import { ProductsProps } from "../../@types/products";
 import { useNavigate } from "react-router-dom";
 
 const newProductSchema = z.object({
-  name: z.string().nonempty('Field is required'),
-  description: z.string().nonempty('Field is required'),
-  price: z.string().nonempty('Field is required'),
-  tag: z.string().nonempty('Field is required'),
+  name: z.string().nonempty("Field is required"),
+  description: z.string().nonempty("Field is required"),
+  price: z.string().nonempty("Field is required"),
+  tag: z.string().nonempty("Field is required"),
 });
 
 type NewProductFormData = z.infer<typeof newProductSchema>;
 
 export function AddProduct() {
   const [allTags, setAllTags] = useState<TagsProps[]>([]);
-  const navigate = useNavigate()
+  const navigate = useNavigate();
 
   const {
     register,
@@ -40,8 +40,8 @@ export function AddProduct() {
     resolver: zodResolver(newProductSchema),
   });
 
-  function handleClose(){
-    navigate(-1)
+  function handleClose() {
+    navigate(-1);
   }
 
   async function fetchAllTags() {
@@ -56,7 +56,6 @@ export function AddProduct() {
     description,
     price,
   }: NewProductFormData) {
-
     const newProduct: ProductsProps = {
       name,
       tag: Number(tag),
@@ -74,15 +73,12 @@ export function AddProduct() {
     } catch (err) {
       console.log(err);
     }
-
   }
 
   useEffect(() => {
     async function populateAllTags() {
       const response = await fetchAllTags();
-      console.log(response.data)
       setAllTags(response.data);
-
     }
 
     populateAllTags();
@@ -91,7 +87,7 @@ export function AddProduct() {
   return (
     <Container>
       <Form onSubmit={handleSubmit(handleCreateNewProduct)}>
-        <ButtonClose type='button' onClick={handleClose}>
+        <ButtonClose type="button" onClick={handleClose}>
           <X size={32} />
         </ButtonClose>
         <h1>New Product</h1>
