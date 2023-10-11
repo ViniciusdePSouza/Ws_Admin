@@ -11,7 +11,7 @@ import {
 
 interface TableRowProps {
   name: string;
-  price: number;
+  price: string;
   id: number;
 }
 
@@ -29,7 +29,7 @@ export function TableRow({ name, price, id }: TableRowProps) {
   }
 
   async function handleGoToEditProductPage(id: number) {
-    navigate(`/product/${id}`)
+    navigate(`/edit/${id}`)
   }
 
   return (

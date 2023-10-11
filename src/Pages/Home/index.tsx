@@ -10,12 +10,12 @@ import {
   ProductsContainer,
   ProductsTable,
 } from "./styles";
-import { ProductsProps } from "../../@types/products";
 import { api } from "../../services/api";
 import { useNavigate } from "react-router-dom";
+import { ProductType } from "../../@types/productsType";
 
 export function Home() {
-    const [allProducts, setAllProducts] = useState<ProductsProps[]>([])
+    const [allProducts, setAllProducts] = useState<ProductType[]>([])
     const navigate = useNavigate()
 
     async function fetchAllProducts() {
