@@ -40,6 +40,10 @@ export function AddProduct() {
     resolver: zodResolver(newProductSchema),
   });
 
+  function handleClose(){
+    navigate(-1)
+  }
+
   async function fetchAllTags() {
     const response = await api.get("/tags");
 
@@ -87,7 +91,7 @@ export function AddProduct() {
   return (
     <Container>
       <Form onSubmit={handleSubmit(handleCreateNewProduct)}>
-        <ButtonClose>
+        <ButtonClose type='button' onClick={handleClose}>
           <X size={32} />
         </ButtonClose>
         <h1>New Product</h1>
