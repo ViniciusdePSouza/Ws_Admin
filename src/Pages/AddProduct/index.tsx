@@ -20,10 +20,10 @@ import { ProductsProps } from "../../@types/products";
 import { useNavigate } from "react-router-dom";
 
 const newProductSchema = z.object({
-  name: z.string(),
-  description: z.string(),
-  price: z.string(),
-  tag: z.string(),
+  name: z.string().nonempty('Field is required'),
+  description: z.string().nonempty('Field is required'),
+  price: z.string().nonempty('Field is required'),
+  tag: z.string().nonempty('Field is required'),
 });
 
 type NewProductFormData = z.infer<typeof newProductSchema>;
