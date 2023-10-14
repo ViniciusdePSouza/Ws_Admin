@@ -37,14 +37,6 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
       "photo": "https://picsum.photos/600/300.webp",
-      "id": 7
-    },
-    {
-      "name": "Food Loren Inpusum",
-      "tag": 2,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
       "id": 8
     },
     {
@@ -53,23 +45,7 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
       "photo": "https://picsum.photos/600/300.webp",
-      "id": 9
-    },
-    {
-      "name": "Food Loren Inpusum",
-      "tag": 2,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
       "id": 10
-    },
-    {
-      "name": "Pet Loren Inpusum",
-      "tag": 3,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 11
     },
     {
       "name": "Pet Loren Inpusum",

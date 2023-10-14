@@ -1,4 +1,3 @@
-
 import { useEffect, useState } from "react";
 import { Header } from "../../components/Header";
 import { Menu } from "../../components/Menu";
@@ -15,28 +14,28 @@ import { useNavigate } from "react-router-dom";
 import { ProductType } from "../../@types/productsType";
 
 export function Home() {
-    const [allProducts, setAllProducts] = useState<ProductType[]>([])
-    const navigate = useNavigate()
+  const [allProducts, setAllProducts] = useState<ProductType[]>([]);
+  const navigate = useNavigate();
 
-    async function fetchAllProducts() {
-        const response = await api.get(`/products`);
+  async function fetchAllProducts() {
+    const response = await api.get(`/products`);
 
-        return response;
+    return response;
+  }
+
+  function goToNewProduct() {
+    navigate("/newproduct");
+  }
+
+  useEffect(() => {
+    async function populateAllEvents() {
+      const response = await fetchAllProducts();
+      setAllProducts(response.data);
     }
 
-    function goToNewProduct(){
-      navigate('/newproduct')
-    }
+    populateAllEvents();
+  }, []);
 
-    useEffect(() => {
-        async function populateAllEvents() {
-          const response = await fetchAllProducts();
-          setAllProducts(response.data);
-        }
-    
-        populateAllEvents();
-      }, []);
-    
   return (
     <Container>
       <Header />
@@ -49,15 +48,15 @@ export function Home() {
           </HeaderProductsContainer>
 
           <ProductsTable>
-            {
-               allProducts && (
-                allProducts.map((product) => (
-                    <TableRow key={product.id} name={product.name} price={product.price} id={product.id} />
-                ))
-               )
-            }
-         
-
+            {allProducts &&
+              allProducts.map((product) => (
+                <TableRow
+                  key={product.id}
+                  name={product.name}
+                  price={product.price}
+                  id={product.id}
+                />
+              ))}
           </ProductsTable>
         </ProductsContainer>
       </Content>

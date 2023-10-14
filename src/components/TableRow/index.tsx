@@ -8,6 +8,8 @@ import {
   TableColumn,
   TableColumnMiddle,
 } from "./styles";
+import { Trash } from "@phosphor-icons/react";
+import { defaultTheme } from "../../styles/theme/default";
 
 interface TableRowProps {
   name: string;
@@ -43,7 +45,7 @@ export function TableRow({ name, price, id }: TableRowProps) {
       <TableColumn>
         <ButtonsDiv>
           <EditButton onClick={() => handleGoToEditProductPage(id)}>EDIT</EditButton>
-          <DeleteButton onClick={() => handleDeleteProduct(id)}>X</DeleteButton>
+          <DeleteButton onClick={() => handleDeleteProduct(id)}><Trash size={32} color={defaultTheme.COLORS.WHITE_100}/></DeleteButton>
         </ButtonsDiv>
       </TableColumn>
     </Container>

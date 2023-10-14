@@ -15,5 +15,6 @@ export const defaultTheme = {
         PURPLE_500: '#6422C4',
 
         RED: '#E13636',
+        RED_300: '#af0808'
     }
 }
