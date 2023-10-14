@@ -30,6 +30,8 @@ export const Form = styled.form`
 
   border: 1px solid ${({ theme }) => theme.COLORS.GRAY_400};
 
+  background-color: ${({ theme }) => theme.COLORS.WHITE_100};
+
   padding: 2rem;
 
   border-radius: 8px;
@@ -59,6 +61,8 @@ export const ButtonClose = styled.button`
 
   border: 1px solid ${({ theme }) => theme.COLORS.GRAY_400};
 
+  background-color: ${({ theme }) => theme.COLORS.WHITE};
+
   cursor: pointer;
 `;
 
@@ -68,6 +72,7 @@ export const PriceTagWrapper = styled.div`
   align-items: center;
   gap: 2rem;
   justify-content: space-between;
+  margin-bottom: 1.2rem;
 `;
 
 export const Select = styled(FormSelect.Select)`

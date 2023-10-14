@@ -13,7 +13,7 @@ export const Container = styled.div`
 
     resize: none;
 
-    background: ${({ theme }) => theme.COLORS.WHITE_100};
+    background: ${({ theme }) => theme.COLORS.WHITE};
 
     padding: 1rem;
 

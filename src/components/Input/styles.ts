@@ -10,7 +10,7 @@ export const Container = styled.div`
   > input {
     width: 100%;
 
-    background: ${({ theme }) => theme.COLORS.WHITE_100};
+    background: ${({ theme }) => theme.COLORS.WHITE};
 
     padding: 1rem;
 
