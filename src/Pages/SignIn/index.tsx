@@ -48,7 +48,7 @@ export function SignIn() {
   return (
     <Container>
       <Form onSubmit={handleSubmit(handleLogin)}>
-        <h1>Faça Login</h1>
+        <h1>Login Page</h1>
         <Input placeholder="Insert your email" {...register("email")} />
         <FormValidatorAdvisor>
           {errors.email ? errors.email?.message : ""}
