@@ -28,19 +28,13 @@ export function SignIn() {
   const navigate = useNavigate();
 
   async function handleLogin({ email, password }: LoginFormData) {
-    const doesUserExist = await localStorage.getItem("@ws-front:user") || "{}"
-    if(doesUserExist) {
-      navigate('/home')
-    }
 
     const { data } = await api.get(
       `/users?email=${email}&password=${password}`
     );
 
-    const doesUserExists = data;
-      
-      if(doesUserExists.length  > 0) {
-        const user = doesUserExists[0]
+      if(data.length  > 0) {
+        const user = data[0]
         localStorage.setItem('@ws-front:user', JSON.stringify(user))
 
         return navigate('/home')

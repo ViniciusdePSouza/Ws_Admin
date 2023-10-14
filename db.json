@@ -12,7 +12,7 @@
       "tag": 6,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 7,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 1
     },
     {
@@ -21,38 +21,14 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 7.86,
       "tag": 1,
-      "photo": "https://picsum.photos/100/200"
-    },
-    {
-      "id": 4,
-      "name": "Natural Supplement 1",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 7.86,
-      "tag": 1,
-      "photo": "https://picsum.photos/100/200"
-    },
-    {
-      "id": 4,
-      "name": "Natural Supplement 1",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 7.86,
-      "tag": 1,
-      "photo": "https://picsum.photos/100/200"
-    },
-    {
-      "name": "Camiseta Atronalta Vermelho",
-      "tag": 1,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/100/200",
-      "id": 5
+      "photo": "https://picsum.photos/600/300.webp"
     },
     {
       "name": "Food Loren Inpusum",
       "tag": 2,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 6
     },
     {
@@ -60,7 +36,7 @@
       "tag": 2,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 7
     },
     {
@@ -68,7 +44,7 @@
       "tag": 2,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 8
     },
     {
@@ -76,7 +52,7 @@
       "tag": 2,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 9
     },
     {
@@ -84,7 +60,7 @@
       "tag": 2,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 10
     },
     {
@@ -92,7 +68,7 @@
       "tag": 3,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 11
     },
     {
@@ -100,7 +76,7 @@
       "tag": 3,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 12
     },
     {
@@ -108,7 +84,7 @@
       "tag": 3,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 13
     },
     {
@@ -116,7 +92,7 @@
       "tag": 3,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 14
     },
     {
@@ -124,7 +100,7 @@
       "tag": 3,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 15
     },
     {
@@ -132,7 +108,7 @@
       "tag": 4,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 16
     },
     {
@@ -140,7 +116,7 @@
       "tag": 4,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 17
     },
     {
@@ -148,7 +124,7 @@
       "tag": 4,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 18
     },
     {
@@ -156,7 +132,7 @@
       "tag": 4,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 19
     },
     {
@@ -164,7 +140,7 @@
       "tag": 4,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 20
     },
     {
@@ -172,7 +148,7 @@
       "tag": 5,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 21
     },
     {
@@ -180,7 +156,7 @@
       "tag": 5,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 22
     },
     {
@@ -188,7 +164,7 @@
       "tag": 5,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 23
     },
     {
@@ -196,7 +172,7 @@
       "tag": 5,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 24
     },
     {
@@ -204,7 +180,7 @@
       "tag": 5,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 25
     },
     {
@@ -212,7 +188,7 @@
       "tag": 6,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 26
     },
     {
@@ -220,7 +196,7 @@
       "tag": 6,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 27
     },
     {
@@ -228,7 +204,7 @@
       "tag": 6,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 28
     },
     {
@@ -236,7 +212,7 @@
       "tag": 6,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 29
     },
     {
@@ -244,7 +220,7 @@
       "tag": 6,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 30
     },
     {
@@ -252,7 +228,7 @@
       "tag": 7,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 31
     },
     {
@@ -260,7 +236,7 @@
       "tag": 7,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 32
     },
     {
@@ -268,15 +244,7 @@
       "tag": 7,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
-      "id": 33
-    },
-    {
-      "name": "Garden Loren Inpusum",
-      "tag": 7,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 34
     },
     {
@@ -284,8 +252,16 @@
       "tag": 7,
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "price": 4545,
-      "photo": "https://picsum.photos/100/200",
+      "photo": "https://picsum.photos/600/300.webp",
       "id": 35
+    },
+    {
+      "name": "Camiseta Atronalta Vermelho",
+      "tag": 6,
+      "description": "hiuhuiohui",
+      "price": 80,
+      "photo": "https://picsum.photos/600/300.webp",
+      "id": 36
     }
   ],
   "tags": [
