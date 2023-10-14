@@ -13,6 +13,6 @@ width: 100%;
 
   padding: 3rem;
 
-  background: linear-gradient(70deg, ${({ theme }) => theme.COLORS.PURPLE_100}, ${({ theme }) => theme.COLORS.PURPLE_200});
+  background: ${({ theme }) => theme.COLORS.PURPLE_100};
   color: ${({ theme }) => theme.COLORS.PURPLE_300};
 `;
