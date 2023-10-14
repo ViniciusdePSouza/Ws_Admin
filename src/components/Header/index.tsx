@@ -1,7 +1,9 @@
 import { Container } from "./styles";
+import { AmazonLogo } from "@phosphor-icons/react";
 
 export function Header() {
     return <Container>
-        <h1>My products Admin</h1>
+        <AmazonLogo size={44}  color="#6422C4"/>
+        My products Admin
     </Container>
 }

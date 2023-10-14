@@ -1,17 +1,17 @@
 import { styled } from "styled-components";
 
 export const Container = styled.div`
+  min-height: 100vh;
+
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 
-  gap: 1rem;
+  gap: 3.6rem;
 
   font-size: 2rem;
 
-  padding: 2rem 1.6rem 15rem;
+  padding: 3rem;
 
-  border-bottom: 1px solid ${({theme}) => theme.COLORS.GRAY_400};
-  border-left: 1px solid ${({theme}) => theme.COLORS.GRAY_400};
-  border-right: 1px solid ${({theme}) => theme.COLORS.GRAY_400};
-`;
+  background: linear-gradient(200deg, ${({ theme }) => theme.COLORS.PURPLE_100}, ${({ theme }) => theme.COLORS.PURPLE_200});
+`

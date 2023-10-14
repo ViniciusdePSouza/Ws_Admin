@@ -1,18 +1,18 @@
 import { styled } from "styled-components";
 
 export const Container = styled.div`
-  width: 100%;
-
+width: 100%;
   display: flex;
   align-items: center;
   justify-content: flex-start;
 
-  padding: 2rem 3rem 1rem; 
+  gap: 2.4rem;
 
-  border: 1px solid ${({theme}) => theme.COLORS.GRAY_400};
+  font-size: 3.6rem;
+  font-weight: 700;
 
-  > h1 {
-    font-size: 2.4rem;
-    font-weight: 700;
-  }
+  padding: 3rem;
+
+  background: linear-gradient(70deg, ${({ theme }) => theme.COLORS.PURPLE_100}, ${({ theme }) => theme.COLORS.PURPLE_200});
+  color: ${({ theme }) => theme.COLORS.PURPLE_300};
 `;
