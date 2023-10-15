@@ -46,6 +46,238 @@
       "price": 297,
       "photo": "https://m.media-amazon.com/images/I/51uGrenfDvL._AC_SX569_.jpg",
       "id": 5
+    },
+    {
+      "name": "Dacolonia - Paçoca Rolha Tradicional, Balde 56 unidades",
+      "tag": 2,
+      "description": "Indulge in the timeless delight of Dacolonia's Traditional 'Paçoca Rolha' Peanut Candy. This classic treat is lovingly crafted and presented in a convenient bucket containing 56 mouthwatering units. Each bite brings you the authentic flavor of Brazil's beloved paçoca, expertly made to perfection. Whether you're savoring it yourself or sharing it with friends and family, this bucket of paçoca candies is a true taste of tradition and a sweet reminder of the Brazilian culinary heritage.",
+      "price": 29.9,
+      "photo": "https://m.media-amazon.com/images/I/71KFLepRoHL._AC_SX522_.jpg",
+      "id": 6
+    },
+    {
+      "name": "Maionese defumada HELLMANN'S Churrasco 335 g",
+      "tag": 2,
+      "description": "Elevate your barbecue experience with Hellmann's Smoked BBQ Mayonnaise. This 335g jar is a flavor-packed condiment that adds a smoky, tangy twist to your favorite grilled dishes. Perfect for burgers, sandwiches, and as a dip for fries, this mayo will take your barbecue to the next level. Hellmann's quality meets irresistible smokiness for a truly delicious taste sensation",
+      "price": 14.6,
+      "photo": "https://m.media-amazon.com/images/I/51LuZtx3HHL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "id": 7
+    },
+    {
+      "name": "Kimchi Conserva de Acelga Apimentada em Lata Coreana Jongga 160g",
+      "tag": 2,
+      "description": "Savor the vibrant flavors of Korea with Jongga's Korean Spicy Napa Cabbage Kimchi. This 160g tin can contains a fiery and authentic delight made from napa cabbage, seasoned with a spicy kick. A true staple in Korean cuisine, this kimchi is a burst of flavor that can be enjoyed as a side dish, in stir-fries, or to add an exciting zest to your favorite dishes. Experience the taste of Korea in the convenience of a can with Jongga",
+      "price": 28.91,
+      "photo": "https://m.media-amazon.com/images/I/61zSi2SMIHL._AC_SX522_.jpg",
+      "id": 8
+    },
+    {
+      "name": "Brownie Chocolate Zero Açúcar sem Glúten sem Lactose Belive 40g",
+      "tag": 2,
+      "description": "Indulge guilt-free with Belive's Sugar-Free Chocolate Brownie. This 40g treat is a delightful blend of rich chocolatey goodness, crafted without added sugar, gluten, or lactose. Whether you have dietary restrictions or simply want a healthier snack option, this brownie is a perfect choice. Experience the sumptuous taste of a classic brownie without compromise, and savor the goodness of Belive's mindful creation.",
+      "price": 7.79,
+      "photo": "https://m.media-amazon.com/images/I/61DyqbV2McL._AC_SX522_.jpg",
+      "id": 9
+    },
+    {
+      "name": "Cereal Infantil, Multicereais, Mucilon, 600g",
+      "tag": 2,
+      "description": "Introduce your little one to the wholesome goodness of Mucilon Multigrain Infant Cereal. This 600g package is specially designed to provide a nutritious start for your child's day. Packed with a blend of multigrains, it offers a balanced and tasty option for young taste buds. Mucilon's commitment to quality ensures that your child gets the essential nutrients they need. Give them a great beginning with Mucilon Multigrain Infant Cereal.",
+      "price": 19.52,
+      "photo": "https://m.media-amazon.com/images/I/71H1IFz6mHL._AC_SX522_.jpg",
+      "id": 10
+    },
+    {
+      "name": "CAMA FIRENZE REDONDA PARA CACHORRO E GATO PET - M - Médio - Marfim",
+      "tag": 3,
+      "description": "Treat your furry friend to the comfort they deserve with the Pet Round Bed in medium size, adorned in a soft ivory hue. Designed for both cats and dogs, this bed from Firenze is a cozy and stylish choice for your pets. Give your beloved companion a peaceful and luxurious place to rest, and watch them enjoy the perfect blend of comfort and style in the Firenze Pet Round Bed",
+      "price": 187.22,
+      "photo": "https://m.media-amazon.com/images/I/612v8UMussL._AC_SX425_.jpg",
+      "id": 11
+    },
+    {
+      "name": "Pet Delícia Natural Fácil Digestão Panelinha de Carne 320g Pet Delícia Raça Adulto, Sabor Carne 320g",
+      "tag": 3,
+      "description": "Treat your beloved pet to the delectable taste of Pet Delícia Natural Easy Digestion - Meat Casserole. This 320g serving is specially formulated for adult dogs, offering the savory flavor of real meat. Made with care and quality by Pet Delícia, it's not just a meal; it's a delicious and easily digestible experience that your furry friend will adore. Nourish your pet with love and flavor with Pet Delícia.",
+      "price": 15.29,
+      "photo": "https://m.media-amazon.com/images/I/51BucJzNMmL._AC_SX522_.jpg",
+      "id": 12
+    },
+    {
+      "name": "Escova Rasqueadeira Tira Pelos Pet Cães e Gatos (Azul)",
+      "tag": 3,
+      "description": "Designed for both dogs and cats, this brush makes shedding a breeze, helping to keep your furry friends' coats in tip-top shape and your home fur-free. This grooming essential is a must-have for pet owners, providing a convenient way to keep your pets looking their best and your home clean",
+      "price": 39.9,
+      "photo": "https://m.media-amazon.com/images/I/413Ky3+WTjL._AC_SX425_.jpg",
+      "id": 13
+    },
+    {
+      "name": "JAMBO PET Bolinha Para Cachorro Com Espinhos Macios Pequena Com Som Ideal Para Atividade Física, Facilita A Limpeza Dental E Fortalecimento Da Gengiva, Diversas Cores (Laranja)",
+      "tag": 3,
+      "description": "Treat your furry friend to the fun and functionality of JAMBO PET's Small Squeaky Dog Ball. This playful ball is designed for small dogs, featuring soft spikes for a gentle gum massage and a built-in squeaker for added excitement. It's not just a toy; it's an excellent way to promote dental health and engage in physical activity with your pet. Available in various colors, the orange option is a vibrant choice for endless playtime enjoyment.",
+      "price": 13.22,
+      "photo": "https://m.media-amazon.com/images/I/71bJQ+gYyiL._AC_SX522_.jpg",
+      "id": 14
+    },
+    {
+      "name": "Comedouro Duplo Pet Bebedouro Cachorro Gato Elevado 2 Pote Inox",
+      "tag": 3,
+      "description": "Elevate your pet's dining experience with the Double Elevated Feeder for dogs and cats. This set features two stainless steel bowls, providing both food and water compartments for your furry friend. The raised design not only enhances your pet's comfort while eating but also helps maintain a cleaner feeding area. Keep your pet well-fed and hydrated in style with this convenient and durable pet accessory.",
+      "price": 51.5,
+      "photo": "https://m.media-amazon.com/images/I/61TjIY2Wv0L._AC_SX425_.jpg",
+      "id": 15
+    },
+    {
+      "name": "Mouse Gamer Sem Fio Logitech G PRO X SUPERLIGHT com Tecnologia LIGHTSPEED, 5 Botões Programáveis, Sensor HERO 25K e Bateria Recarregável - Compatível com POWERPLAY - Branco",
+      "tag": 4,
+      "description": "Experience gaming at its finest with the Logitech G PRO X SUPERLIGHT Wireless Gaming Mouse. Engineered with LIGHTSPEED technology, 5 programmable buttons, and the advanced HERO 25K sensor, this mouse offers unparalleled precision and performance. The rechargeable battery ensures uninterrupted gameplay, while compatibility with POWERPLAY provides wireless charging convenience. Elevate your gaming setup in style with the sleek white design",
+      "price": 690,
+      "photo": "https://m.media-amazon.com/images/I/61ykKLbddNL._AC_SX425_.jpg",
+      "id": 16
+    },
+    {
+      "name": "Teclado Mecânico Gamer Logitech G713 RGB LIGHTSYNC Com Switch GX Brown Tactile, Apoio para Mãos em Formato de Nuvem, Compatível Com PC e Mac, Layout ABNT",
+      "tag": 4,
+      "description": "Elevate your gaming experience with the Logitech G713 RGB LIGHTSYNC Mechanical Gaming Keyboard. Featuring GX Brown Tactile Switches for a satisfying keystroke feel and customizable RGB LIGHTSYNC technology, this keyboard offers precision and style. The cloud-shaped wrist rest enhances comfort during extended gaming sessions, while compatibility with both PC and Mac systems ensures versatility. Enjoy the best of gaming and productivity with the ABNT layout.",
+      "price": 799.89,
+      "photo": "https://m.media-amazon.com/images/I/61VWTUZPusL._AC_SX425_.jpg",
+      "id": 17
+    },
+    {
+      "name": "Gigabyte Placa de vídeo NVIDIA GeForce RTX 3050 WINDFORCE OC - 8GB GDDR6, 128-bit, PCI-E 4.0, 1792 MHz Core Clock, 1x DP 1.4, 1x HDMI 2.1, NVIDIA Ampere - GV-N3050WF2OC-8GD",
+      "tag": 4,
+      "description": "Unlock the power of gaming with the Gigabyte NVIDIA GeForce RTX 3050 WINDFORCE OC Graphics Card. Featuring 8GB of GDDR6 memory, a 128-bit memory interface, and a lightning-fast 1792 MHz Core Clock, this GPU delivers exceptional performance. With 1x DP 1.4 and 1x HDMI 2.1 ports, it offers versatile connectivity for your display needs. Powered by NVIDIA Ampere architecture, this graphics card is your gateway to immersive gaming experiences",
+      "price": 1485,
+      "photo": "https://m.media-amazon.com/images/I/81ftAi2kdtL._AC_SX425_.jpg",
+      "id": 18
+    },
+    {
+      "name": "Fone de ouvido CAD Audio Sessions MH510W fechado para estúdio, branco/vermelho",
+      "tag": 4,
+      "description": "Experience pristine audio in the studio with CAD Audio Sessions MH510W Closed-Back Studio Headphones. Designed for professional use, these headphones offer exceptional sound isolation and clarity. In an eye-catching white and red color scheme, they combine style with performance, making them an ideal choice for musicians and audio professionals.",
+      "price": 588,
+      "photo": "https://m.media-amazon.com/images/I/815nW-cMI3L._AC_SY550_.jpg",
+      "id": 19
+    },
+    {
+      "name": "Smart Monitor Samsung 32\", UHD, Plataforma Tizen™, Tap View, USB-c, Micro HDMI, Bluetooth, ajuste de altura, Alexa, Rosa, Série M8",
+      "tag": 4,
+      "description": "Immerse yourself in the Samsung 32\" UHD Smart Monitor, part of the M8 Series. This monitor boasts a range of features, including the Tizen™ platform for smart functionality, Tap View for easy content sharing, and versatile connectivity options with USB-C and Micro HDMI. With Bluetooth support and height adjustment, it offers a seamless user experience. Plus, enjoy the convenience of Alexa integration, all in an elegant pink design",
+      "price": 4000,
+      "photo": "https://m.media-amazon.com/images/I/717CQZ3n4HL._AC_SX425_.jpg",
+      "id": 20
+    },
+    {
+      "name": "Root Touch Up, Hair Shadow Hair Line Powder Hairline Shadow Cover Up Powder Fill In Thinning Hair Beauty Cosmetics Black Root Powder(light brown)",
+      "tag": 5,
+      "description": "Achieve flawless, natural-looking hair with our Root Touch Up Powder. Available in a beautiful light brown shade, this product is perfect for covering roots and filling in thinning areas, leaving your hairline looking luscious and voluminous. Elevate your beauty routine with this essential cosmetic product.",
+      "price": 88,
+      "photo": "https://m.media-amazon.com/images/I/51X8czAV6HL._AC_SX569_.jpg",
+      "id": 21
+    },
+    {
+      "name": "Modelador de Cachos Ondulador Triondas Glam Wave Profissional MQ Hair Beauty Bivolt",
+      "tag": 5,
+      "description": "Get those stunning, beachy waves with the MQ Hair Beauty Glam Wave Professional Hair Waver. This curling tool is perfect for creating beautiful waves and curls effortlessly. With dual voltage support, it's a versatile styling tool that you can use anywhere in the world. Achieve a salon-worthy look with this professional hair waver from MQ Hair Beauty",
+      "price": 349.9,
+      "photo": "https://m.media-amazon.com/images/I/415YAOUxTzL._AC_SX569_.jpg",
+      "id": 22
+    },
+    {
+      "name": "Escova Soft Mega Hair, Cor Roxo, Lanossi Beauty & Care.",
+      "tag": 5,
+      "description": "Elevate your hair care routine with the Lanossi Beauty & Care Soft Mega Hair Brush in a stylish purple hue. This brush is designed for gentle and effective detangling and styling, ensuring your hair remains smooth and manageable. Experience the difference with Lanossi's quality hair care products",
+      "price": 39,
+      "photo": "https://m.media-amazon.com/images/I/71JD7YE07hL._AC_SX569_.jpg",
+      "id": 23
+    },
+    {
+      "name": "Kit Mini Help (Pequeno) Max Beauty - 25Ml, Soft Hair",
+      "tag": 5,
+      "description": "Discover the convenience of the Max Beauty Mini Help Kit (Small) with 25ml soft hair care products. This compact kit offers essential hair care solutions in a travel-friendly size. Whether you're on the go or looking for a compact hair care option, Max Beauty has you covered",
+      "price": 22.87,
+      "photo": "https://m.media-amazon.com/images/I/61aBlLOBrdL._AC_SX569_.jpg",
+      "id": 24
+    },
+    {
+      "name": "Hair Line Powder Hairline Shadow Cover Up Powder Fill in Thinning Hair Beauty Cosmetics, Fill in Thinning Hair Beauty Cosmetics(Brown)",
+      "tag": 5,
+      "description": "Achieve the perfect look with our Thinning Hair Cover-Up Powder in a natural brown shade. This cosmetic product is ideal for covering up sparse areas and adding volume to your hairline. Enhance your beauty routine with this easy and effective solution for achieving a fuller, more confident appearance.",
+      "price": 48.34,
+      "photo": "https://m.media-amazon.com/images/I/61vP8xiDtHL._AC_SX569_.jpg",
+      "id": 25
+    },
+    {
+      "name": "Buquê de Peônia com Hortência - 36cm e 6 Flores (Salmão)",
+      "tag": 6,
+      "description": "Adorn your space with the elegance of a Peony and Hydrangea Bouquet. This bouquet stands at 36cm and features six beautiful salmon-colored flowers. Bring a touch of nature's beauty into your surroundings with this charming and lifelike floral arrangement.",
+      "price": 39.99,
+      "photo": "https://m.media-amazon.com/images/I/61kM03vn4FL._AC_SX425_.jpg",
+      "id": 26
+    },
+    {
+      "name": "Gazechimp Flores De Peã´Nia Artificiais Buquê Nupciais Arranjo De Decoração Floral Dos Namorados, Festa, Jardim, Escritorio - Tamanho Real Rosa Escuro",
+      "tag": 6,
+      "description": "Enhance your special occasions and spaces with the Gazechimp Artificial Peony Flowers Bridal Bouquet. This lifelike floral decoration is perfect for weddings, parties, gardens, and offices. The dark pink peony bouquet adds a touch of elegance and charm to any setting, providing a real-size, realistic floral arrangement that captures the essence of romance and beauty.",
+      "price": 29.99,
+      "photo": "https://m.media-amazon.com/images/I/616veab5AWL._AC_SY450_.jpg",
+      "id": 27
+    },
+    {
+      "name": "Orquídea Branca Artificial Arranjo no Vaso Espelhado Flores Permanentes",
+      "tag": 6,
+      "description": "Elevate your event or home decor with Vlovelife's set of 20 Real Touch Artificial White Tulip Flowers. These lifelike polyurethane tulips bring an authentic touch to your space, making them perfect for weddings, home floral arrangements, room decoration, table centerpieces, and wedding party decor. Create an ambiance of elegance and charm with these stunning, realistic faux tulip bouquets.",
+      "price": 80,
+      "photo": "https://m.media-amazon.com/images/I/71FyGaI8rdL._AC_SY450_.jpg",
+      "id": 28
+    },
+    {
+      "name": "Arranjo Centro de Mesa Orquídea Branca Artificial Vaso Espelhado",
+      "tag": 6,
+      "description": "Enhance your space with the timeless beauty of an Artificial White Orchid Centerpiece. Presented in a mirrored vase, this lifelike orchid arrangement adds a touch of elegance to any table or surface. Elevate your decor with the captivating charm of this artificial floral centerpiece.",
+      "price": 65,
+      "photo": "https://m.media-amazon.com/images/I/71TXgiTqyzL._AC_SX425_.jpg",
+      "id": 29
+    },
+    {
+      "name": "Pure Garden 75-08002 Conjunto de 8 peças de ferramentas de jardim e sacola repelem pesticidas, 7x4,5, b",
+      "tag": 7,
+      "description": "Equip yourself for a successful gardening experience with the Pure Garden 8-Piece Garden Tools Set. This comprehensive kit includes essential garden tools and a special bag designed to repel pesticides. Whether you're an experienced gardener or just starting out, this set ensures you have the right tools and protection for a thriving garden.",
+      "price": 130.9,
+      "photo": "https://m.media-amazon.com/images/I/71fBnCioO0L._AC_SY450_.jpg",
+      "id": 30
+    },
+    {
+      "name": "Tramontina Luvas Para Jardinagem",
+      "tag": 7,
+      "description": "Protect your hands while tending to your garden with Tramontina Gardening Gloves. These durable and comfortable gloves are designed to keep your hands safe and provide a secure grip while you work in your garden. Enjoy the quality and reliability of Tramontina in your gardening endeavors.",
+      "price": 13.99,
+      "photo": "https://m.media-amazon.com/images/I/71ynSoL9mxL._AC_SY450_.jpg",
+      "id": 31
+    },
+    {
+      "name": "Tesoura Para Poda Palisad 180 mm com Trava e Mola Cabo Revestido de Borracha",
+      "tag": 7,
+      "description": "Make your pruning tasks a breeze with the Palisad 180mm Pruning Shears. These shears feature a convenient lock and rubber-coated handles for a secure grip and comfortable use. With a 180mm size, they are ideal for various gardening and cutting needs. Get the job done efficiently with these quality pruning shears from Palisad",
+      "price": 13.83,
+      "photo": "https://m.media-amazon.com/images/I/51dsCc5hdEL._AC_SX425_.jpg",
+      "id": 32
+    },
+    {
+      "name": "Conjunto Para Jardinagem Tramontina Metálico Com Cabo De Madeira 3 Peças",
+      "tag": 7,
+      "description": "Elevate your gardening experience with the Tramontina Metal Gardening Set. This set includes three essential gardening tools with sturdy wooden handles. Designed for durability and ease of use, it's a must-have for any gardening enthusiast. Get ready to tackle your gardening tasks with Tramontina's quality and craftsmanship",
+      "price": 34.91,
+      "photo": "https://m.media-amazon.com/images/I/51-R8OUkoTL._AC_SX425_.jpg",
+      "id": 33
+    },
+    {
+      "name": "Kit para Jardim com 8 Peças",
+      "tag": 7,
+      "description": "This 8-piece garden tool kit is your comprehensive solution for all your gardening needs. Whether you're a seasoned gardener or just starting out, this kit includes a variety of essential tools to help you maintain and cultivate your garden. It's the perfect set to keep your garden looking its best.",
+      "price": 112.78,
+      "photo": "https://m.media-amazon.com/images/I/61XNe5ZoLoL._AC_SY450_.jpg",
+      "id": 34
     }
   ],
   "tags": [
