@@ -8,236 +8,44 @@
   ],
   "products": [
     {
-      "name": "Red Apple",
-      "tag": 6,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 7,
-      "photo": "https://picsum.photos/600/300.webp",
+      "name": "UC-II 40MG Colágeno Tipo 2 (60 Vcaps) Healthy Origins",
+      "tag": 1,
+      "description": "UC-II 40MG Colágeno Tipo 2 by Healthy Origins is a powerful supplement in a convenient 60 Vcaps format. This product contains 40mg of Type 2 collagen, a vital component for joint health and mobility. UC-II is known for its superior bioavailability and effectiveness in supporting joint comfort. With these easy-to-take capsules, you can promote healthy joints and overall well-being.",
+      "price": 162.05,
+      "photo": "https://m.media-amazon.com/images/I/61foj-maSfL._AC_SY879_.jpg",
       "id": 1
     },
     {
-      "id": 4,
-      "name": "Natural Supplement 1",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 7.86,
+      "name": "Solgar Glucosamina Condroitina MSM, Sellfish-Free Origem Vegetal 100% Natural",
       "tag": 1,
-      "photo": "https://picsum.photos/600/300.webp"
+      "description": "Solgar's Glucosamine Chondroitin MSM is a premium, plant-based joint support supplement. Crafted without shellfish, it provides 100% natural and vegetarian-friendly ingredients. This powerful blend promotes joint health and mobility, making it an ideal choice for those seeking a natural and sustainable solution for their well-being. Trust Solgar for your joint care needs.",
+      "price": 665,
+      "photo": "https://m.media-amazon.com/images/I/71mvG4exP0L._AC_SX569_.jpg",
+      "id": 2
     },
     {
-      "name": "Food Loren Inpusum",
-      "tag": 2,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 6
+      "name": "TooGet Pure Natural Aromatic Jasmine Buds Wholesale, Herbal Tea - 115g",
+      "tag": 1,
+      "description": "Discover the enchanting aroma of TooGet's Pure Natural Aromatic Jasmine Buds. This 115g package is perfect for herbal tea enthusiasts, providing a fragrant and all-natural addition to your tea collection. Available in bulk, it's your go-to choice for quality and freshness. Elevate your tea experience with the delicate and soothing essence of jasmine, courtesy of TooGet.",
+      "price": 88.99,
+      "photo": "https://m.media-amazon.com/images/I/81br6dpSOXL._AC_SX522_.jpg",
+      "id": 3
     },
     {
-      "name": "Food Loren Inpusum",
-      "tag": 2,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 8
+      "name": "Protein Bar Power Crunch - 12 Units French Vanilla Creme - Bnrg",
+      "tag": 1,
+      "description": "Indulge in the delicious Power Crunch Protein Bars with the exquisite flavor of French Vanilla Creme. This pack includes 12 units and is brought to you by Bnrg. Satisfy your protein needs with a delightful and convenient snack that combines great taste and nutrition in every bite.",
+      "price": 289,
+      "photo": "https://m.media-amazon.com/images/I/81LxbNqSQZL._AC_SY879_.jpg",
+      "id": 4
     },
     {
-      "name": "Food Loren Inpusum",
-      "tag": 2,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 10
-    },
-    {
-      "name": "Pet Loren Inpusum",
-      "tag": 3,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 12
-    },
-    {
-      "name": "Pet Loren Inpusum",
-      "tag": 3,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 13
-    },
-    {
-      "name": "Pet Loren Inpusum",
-      "tag": 3,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 14
-    },
-    {
-      "name": "Pet Loren Inpusum",
-      "tag": 3,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 15
-    },
-    {
-      "name": "Hardware Loren Inpusum",
-      "tag": 4,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 16
-    },
-    {
-      "name": "Hardware Loren Inpusum",
-      "tag": 4,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 17
-    },
-    {
-      "name": "Hardware Loren Inpusum",
-      "tag": 4,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 18
-    },
-    {
-      "name": "Hardware Loren Inpusum",
-      "tag": 4,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 19
-    },
-    {
-      "name": "Hardware Loren Inpusum",
-      "tag": 4,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 20
-    },
-    {
-      "name": "Beauty Loren Inpusum",
-      "tag": 5,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 21
-    },
-    {
-      "name": "Beauty Loren Inpusum",
-      "tag": 5,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 22
-    },
-    {
-      "name": "Beauty Loren Inpusum",
-      "tag": 5,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 23
-    },
-    {
-      "name": "Beauty Loren Inpusum",
-      "tag": 5,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 24
-    },
-    {
-      "name": "Beauty Loren Inpusum",
-      "tag": 5,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 25
-    },
-    {
-      "name": "Flowers Loren Inpusum",
-      "tag": 6,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 26
-    },
-    {
-      "name": "Flowers Loren Inpusum",
-      "tag": 6,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 27
-    },
-    {
-      "name": "Flowers Loren Inpusum",
-      "tag": 6,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 28
-    },
-    {
-      "name": "Flowers Loren Inpusum",
-      "tag": 6,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 29
-    },
-    {
-      "name": "Flowers Loren Inpusum",
-      "tag": 6,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 30
-    },
-    {
-      "name": "Garden Loren Inpusum",
-      "tag": 7,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 31
-    },
-    {
-      "name": "Garden Loren Inpusum",
-      "tag": 7,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 32
-    },
-    {
-      "name": "Garden Loren Inpusum",
-      "tag": 7,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 34
-    },
-    {
-      "name": "Garden Loren Inpusum",
-      "tag": 7,
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "price": 4545,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 35
-    },
-    {
-      "name": "Camiseta Atronalta Vermelho",
-      "tag": 6,
-      "description": "hiuhuiohui",
-      "price": 80,
-      "photo": "https://picsum.photos/600/300.webp",
-      "id": 36
+      "name": "Phyto Phytophanere Hair and Nail Fortifier 2 Months",
+      "tag": 1,
+      "description": "Phyto Phytophanere Hair and Nail Fortifier for 2 Months is your secret to strong, healthy hair and nails. This two-month supply of nourishing supplements from Phyto provides the essential nutrients your hair and nails need to thrive. Elevate your beauty regimen with this fortifying solution for lustrous locks and strong, beautiful nails",
+      "price": 297,
+      "photo": "https://m.media-amazon.com/images/I/51uGrenfDvL._AC_SX569_.jpg",
+      "id": 5
     }
   ],
   "tags": [

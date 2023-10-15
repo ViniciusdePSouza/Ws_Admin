@@ -10,7 +10,7 @@ const Input = forwardRef<HTMLInputElement, InputProps>(
   ) => {
     return (
       <Container>
-        <input ref={ref} placeholder={placeholder} type={type} {...rest} />
+        <input ref={ref} placeholder={placeholder} type={type} step={type === "number" ? "any" : undefined}  {...rest} />
       </Container>
     );
   }

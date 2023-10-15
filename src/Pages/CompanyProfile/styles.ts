@@ -19,31 +19,33 @@ export const ProfileInfo = styled.div`
   margin: 1.6rem auto 0;
 
   h1 {
-    font-size: 3.6rem;
+    font-size: 4rem;
     font-weight: 700;
 
     margin-bottom: 2rem;
   }
 
   h2 {
-    font-size: 2.4rem;
+    font-size: 3.2rem;
     font-weight: 700;
 
-    margin-bottom: 1rem; 
+    margin: 2rem 0; 
   }
 
   h3 {
-    font-size: 2rem;
+    font-size: 2.8rem;
     font-weight: 400;
 
     margin: .5rem 0; 
   }
 
   p {
-    font-size: 1.4rem;
+    font-size: 2rem;
     font-weight: 400;
 
-    margin-bottom: .5rem; 
+    margin-bottom: 1.2rem; 
+
+    color: ${({theme}) => theme.COLORS.GRAY_100};
   }
 
 `;

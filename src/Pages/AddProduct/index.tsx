@@ -24,6 +24,10 @@ const newProductSchema = z.object({
   description: z.string().nonempty("Field is required"),
   price: z.string().nonempty("Field is required"),
   tag: z.string().nonempty("Field is required"),
+  link: z
+  .string()
+  .nonempty("Field is required")
+  .url("Invalid Link"),
 });
 
 type NewProductFormData = z.infer<typeof newProductSchema>;
@@ -55,13 +59,14 @@ export function AddProduct() {
     tag,
     description,
     price,
+    link
   }: NewProductFormData) {
     const newProduct: ProductsProps = {
       name,
       tag: Number(tag),
       description,
       price: Number(price),
-      photo: "https://picsum.photos/100/200",
+      photo: link,
     };
 
     try {
@@ -104,6 +109,10 @@ export function AddProduct() {
           {errors.description ? errors.description?.message : ""}
         </FormValidatorAdvisor>
 
+        <Input placeholder="Insert the product's image link" {...register("link")} />
+        <FormValidatorAdvisor>
+          {errors.link ? errors.link?.message : ""}
+        </FormValidatorAdvisor>
         <PriceTagWrapper>
           <Input
             type="number"
