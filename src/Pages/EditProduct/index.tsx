@@ -29,6 +29,10 @@ const editProductSchema = z.object({
   description: z.string().nonempty("Field is required"),
   price: z.string().nonempty("Field is required"),
   tag: z.string().nonempty("Field is required"),
+  link: z
+  .string()
+  .nonempty("Field is required")
+  .url("Invalid Link"),
 });
 
 type EditProductFormData = z.infer<typeof editProductSchema>;
@@ -112,6 +116,7 @@ export function EditProduct() {
       setValue("description", product.description);
       setValue("price", product.price);
       setValue("tag", product.tag);
+      setValue("link", product.photo);
     }
   }, [product, setValue]);
 
@@ -133,6 +138,11 @@ export function EditProduct() {
         />
         <FormValidatorAdvisor>
           {errors.description ? errors.description?.message : ""}
+        </FormValidatorAdvisor>
+
+        <Input placeholder="Insert the product's image link" {...register("link")} />
+        <FormValidatorAdvisor>
+          {errors.link ? errors.link?.message : ""}
         </FormValidatorAdvisor>
 
         <PriceTagWrapper>
